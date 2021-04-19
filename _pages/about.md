@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: eXplaining Competency and Autonomy development in Learning Environments - ANR Project
 
