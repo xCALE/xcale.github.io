@@ -2,23 +2,28 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+description: eXplaining Competency and Autonomy development in Learning Environments - ANR Project
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Summary
+With the advent of MOOCs, and the success of exercise-based platforms, large-scale online environments are becoming widespread, both in distant learning and in blended learning. Self-Regulated Learning (SRL) is known to have a good potential on autonomy development and on maintaining motivation for learners, both in MOOCs , and in blended learning within exercise-based platforms. Developing Self-Regulated Learning Strategies is also known to have a positive impact on academic achievement. Our main objective in this project is to investigate how to support successfully self-regulated learning at a large scale, with an approach that aims to estimate acquired skills levels and metacognitive levels about students to provide appropriate interventions.
+This approach pursues the objective of fostering students’ autonomy through Open Learner Models (OLM). Along the same lines as Conati et al.  (2018), who demonstrates that effective support assumes that models are interpretable by users, we defend that support should be able to provide some forms of explanation on learning process to stimulate reflection on metacognition, beyond simple activity recommendations. We are interested in Bayesian modelling techniques to acquire and update learners’ models as OLMs (about their cognitive and metacognitive skills and progression), with an application on data corpus resulting from available large-scale learning platforms comprising MOOCs series (IMT Altantique courses available on FUN and Edx platforms) and courses from a web platform dedicated to learning programming with practical exercises in Secondary Education (France IOI). We expect from this project a good potential for generalizability and transferability, since we dispose of real life data.
+In concrete terms, xCALE project proposes to develop, experiment and evaluate a generic approach that allows to provide a personalized and interpretable support for (i) skills acquisition and (ii) self-regulated learning to support learners’ autonomy. Personalized learning and self-regulated learning will be based on learners’ models - having features for personalization and for self-regulation - and Bayesian modelling techniques. Expected results and verifiable indicators include what follows:
+*	A methodology to develop and evaluate Open Learner Models on learners’ skill levels in didactically well-defined disciplines that provide personalized and interpretable insights to users. Proven examples of personalized interpretable interventions in programming and algorithmic courses, based on learner data and expert knowledge practitioners will be provided.
+*	A generic model on metacognitive processes, based on learners’ progression and SRL-based learning interactions. This model will predict metacognitive strategies to provide relevant interventions.
+*	A recommendation engine that will provide, on the one hand, personalized activities for skills acquisition according to SRL support, and on the other hand, relevant and personalized interventions to develop SRL (including visual dashboards, dedicated tools, such as time planning or goals management, guidance, etc.).
+*	An impact study on the transformation of teaching practices, as well as the dissemination of SRL support proposals among other courses and disciplines.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+# Partners
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/xCALE partners.png' | relative_url }}" alt="" title="xCALE Partners"/>
+    </div>
+</div>
+<div class="caption">
+    xCALE Partners.
+</div>
