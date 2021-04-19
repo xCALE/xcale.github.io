@@ -35,3 +35,5 @@ mdp loc Classique!
 #publier une bibliographie
 - texte dans _data/members.yml
 - images dans assets/img/
+- ne pas oublier bundle exec jekyll serve
+bundle exec jekyll build ou serve
