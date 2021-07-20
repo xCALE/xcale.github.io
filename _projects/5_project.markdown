@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WP 5
-description: a project with a background image
+description: Experimental Validation
 img: /assets/img/1.jpg
 importance: 3
 category: work
