@@ -2,7 +2,7 @@
 layout: page
 title: project WPs
 permalink: /project/
-description: A growing collection of your cool projects.
+description: All the WP's
 nav: true
 display_categories: [work, fun]
 horizontal: false
