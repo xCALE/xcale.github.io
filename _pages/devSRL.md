@@ -1,6 +1,30 @@
-# Développement de l'auto régulation des apprentissages 
+# Développement de l'autorégulation des apprentissages 
 
-Cette note s'inspire initialement de la fiche proposée en ligne par l'initiative [Teaching Excellence in Adult Literacy](https://lincs.ed.gov/state-resources/federal-initiatives/teal) qui propose de développer des stratégies d'écriture pour développer l'autorégulation. Il est complété par la proposition de développer des stratégies dans le cadre de l'informatique et de l'apprentissage par projet. Ces deux types d'enseignement intègrent en effet également des stratégies qui favorisent le développement de statégies d'autorégulation. 
+La mise en place d'un environnement supportant l'autorégulation des apprentissages est d'abord l'affaire de l'équipe pédagogique en charge d'un programme, d'un cours, d'une plateforme en ligne. 
+
+## Conditions pour développer l'autorégulation
+### Créer un environnement favorable sur un maximum de dimensions (voir Garrisson)
+
+### Intégrer et équilibrer les apprentissages disciplinaires et d'autorégulation
+
+### Mettre en place des stratégies pour étayer le développement de l'autorégulation
+
+### Donner les clés à l'apprenant
+L'apprentissage centré sur l'étudiant est une approche de l'apprentissage dans laquelle les apprenants choisissent non seulement ce qu'ils veulent étudier mais mais aussi comment et pourquoi. La responsabilité et l'activité de l'apprenant sont au cœur de l'environnement d'apprentissage, contrairement à l'accent mis sur le contrôle de l'instructeur et la couverture du contenu académique que l'on trouve dans l'enseignement conventionnel.
+
+
+De manière générale, ouvrir le cours et donner une partie du contrôle à l'apprenant, est facteur de motivation et permet le développement de sa capacité à autoréguler ses apprentissages. Les différents dispositifs de classe inversée ou renversée sont également des dispositifs favorables. 
+
+Voir [Teal Center Fact Sheet N°6 Student Centered Learning](https://lincs.ed.gov/sites/default/files/6%20_TEAL_Student-Centered.pdf)
+
+### proposer un accompagnement bienveillant et supportant le développement critique 
+
+
+
+
+La suite de cette note s'inspire initialement de la [fiche proposée en ligne](https://lincs.ed.gov/sites/default/files/10_TEAL_Self_Reg_Strat_Dev_0.pdf)  par l'initiative [Teaching Excellence in Adult Literacy](https://lincs.ed.gov/state-resources/federal-initiatives/teal) qui propose de développer des stratégies d'écriture pour développer l'autorégulation. Il est complété par la proposition de développer des stratégies dans le cadre de l'informatique et de l'apprentissage par projet. Ces deux types d'enseignement intègrent en effet également des stratégies qui favorisent le développement de statégies d'autorégulation. 
+
+
  
 
 ## Qu'est-ce que le développement de stratégies auto-régulées ?
@@ -43,7 +67,7 @@ En suivant la séquence pédagogique détaillée ci-dessous, les enseignants peu
 ### Stratégies recommandées pour la DSCR
 Les stratégies présentées ici peuvent être utiles aux étudiants adultes pour améliorer leurs compétences en littératie. Toutes les stratégies doivent être enseignées explicitement pour que les apprenants les généralisent et les appliquent lorsqu'ils sont confrontés à une nouvelle tâche. Enseignez chaque étape en suivant la séquence décrite ci-dessus.
 - **RAP**. La compréhension active exige l'autosurveillance et l'autorégulation. Cette stratégie, qui a fait l'objet de recherches auprès d'adolescents (Hagaman, Luschen & Reid, 2010 ; Schumaker, Denton, & Deschler, 1984) aide les apprenants à surveiller leur lecture et leur compréhension. Expliquez aux élèves que RAP signifie Read, Ask, and Paraphrase (lire, demander et paraphraser), comme dans les suivant : Lisez un paragraphe ou un passage. Demandez à Demandez-vous : "Quel est le sujet ?" "Quelle est la chose la plus la chose la plus importante qu'il me dit sur ce sujet ?" "Quels sont sont les détails les plus importants ?" Paraphrasez, ou mettez vos propres mots. Commencez maintenant par introduire un paragraphe. Une fois que les élèves ont maîtrisé l'identification de l'idée principale et des détails importants au niveau du paragraphe, vous pouvez augmenter la quantité de texte. La quantité de pratique nécessaire varie d'un élève à l'autre. Tous les élèves devraient s'exercer avec une variété de types de texte, en augmentant le niveau de difficulté, pour identifier des sujets dans des passages où les idées principales ne sont pas explicitement énoncées. Dans l'étape *Demander*, l'élève commence par identifier le sujet. Invitez les élèves à vérifier  leur pensée en leur demandant s'ils pensent que le paragraphe entier porte sur le sujet qu'ils ont choisi. Après avoir identifié le sujet, demandez-leur de déterminer l'idée principale, c'est-à-dire ce que l'auteur voulait dire sur le sujet. Enfin, demandez-leur de déterminer les détails qui sont essentiels pour saisir les informations importantes. Demandez ensuite aux élèves de décrire leur compréhension du passage dans leurs leurs propres mots. Mettez le texte de côté et expliquez. Lorsque les élèves sont à l'aise avec la stratégie RAP pour la compréhension, vous pouvez l'étendre pour les aider à rédiger des résumés.
-- POW+TREE. Cette stratégie aide les écrivains à aborder une tâche de rédaction et à vérifier leur travail lorsqu'ils deviennent à mesure qu'ils deviennent plus indépendants (Harris, Graham, Mason et Friedlander, 2008). Elle s'est avérée efficace avec des étudiants adultes (Berry & Mason, 2010). La première partie, POW, représente et et souligne l'importance du processus de planification de la planification : Choisir mon idée et prêter attention au l'incitation ; Organiser ; Écrire et en dire plus. L'acronyme TREE est un outil de mémorisation et de visualisation qui aide les écrivains à structurer leurs textes : la phrase sujet est comme le tronc de l'arbre qui soutient l'ensemble de l'argument ; les raisons (au moins trois) sont comme les racines de l'argument ; Expliquer est un rappel pour en d'en dire plus sur chaque raison et, enfin, la conclusion est comme la terre qui enveloppe l'ensemble de l'argument. Des fiches de réflexion ou des dagrammes en forme d'arbres arbres stylisés sur lesquels les apprenants écrivent pendant leur remue-méninges et leur planification peuvent favoriser l'intériorisation de cette stratégie.
+- **POW+TREE**. Cette stratégie aide les écrivains à aborder une tâche de rédaction et à vérifier leur travail lorsqu'ils deviennent à mesure qu'ils deviennent plus indépendants (Harris, Graham, Mason et Friedlander, 2008). Elle s'est avérée efficace avec des étudiants adultes (Berry & Mason, 2010). La première partie, POW, représente et et souligne l'importance du processus de planification de la planification : Choisir mon idée et prêter attention au l'incitation ; Organiser ; Écrire et en dire plus. L'acronyme TREE est un outil de mémorisation et de visualisation qui aide les écrivains à structurer leurs textes : la phrase sujet est comme le tronc de l'arbre qui soutient l'ensemble de l'argument ; les raisons (au moins trois) sont comme les racines de l'argument ; Expliquer est un rappel pour en d'en dire plus sur chaque raison et, enfin, la conclusion est comme la terre qui enveloppe l'ensemble de l'argument. Des fiches de réflexion ou des dagrammes en forme d'arbres arbres stylisés sur lesquels les apprenants écrivent pendant leur remue-méninges et leur planification peuvent favoriser l'intériorisation de cette stratégie.
 
 
 
@@ -51,3 +75,6 @@ Les stratégies présentées ici peuvent être utiles aux étudiants adultes pou
 En 
 
 ## L'enseignement de stratégies de projets
+
+
+###### tags: `SRL` `strategies`
