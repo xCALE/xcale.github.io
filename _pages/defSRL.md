@@ -37,6 +37,12 @@ Il introduit ainsi les obstacles et les conditions de l'apprentissage autorégul
         * auto-observation
         * auto-évaluation 
 
+D'un point de vue pratique, Joëlle Proust incite sur 3 conditions: 
+* **Pouvoir apprendre** - c'est à dire que la tâche soit accessible et se réfère pour cela à la ZPD 
+* **Vouloir apprendre** - on revient sur la motivation 
+* **Pouvoir s'évaluer** - l'auteure aborde sour l'angle d l'expoitation des sentiments cognitifs pour analyser la dynamique de la boucle de rétroaction. 
+
+
 L'autorégulation des apprentissages est un construit complexe intégrant les aspects cognitifs, métacognitifs et motivationnels de l'apprentissage. Un grand nombre d'articles de recherche et de propositions de modèles ont été publiés. Deux notes de synthèses [@Cosnefroy2010], [@Panadero2017] proposent d'aborder les différentes dimensions du SRL au travers de modèles clés. Ces modèles, cités de façon répétée font office de paradigmes qui structurent ce champ de recherche. L'agrégation de ces synthèses amène à 7 modèles. Nous renvoyons aux articles pour une définition détaillé. 
 * Winne - perspective métacognitive ou l'héritage cognitif [@Cosnefroy2010], [@Panadero2017]
 * Pintrich - L'influence des buts d'accomplissement et la motivation [@Cosnefroy2010], [@Panadero2017]
@@ -47,6 +53,7 @@ L'autorégulation des apprentissages est un construit complexe intégrant les as
 * Hadwin, Järvellä et Miller - le contexte de l'apprentissage collaboratif [Panadero2017]
 
 Chacun de ces modèles se positionne par rapport à un cadre théorique donné, mettant en avant certaines dimensions et influences potentielles sur l'apprentissage. Ils s'accompagnent en général d'un outil/instrument/questionnaire permettant de les mesurer et de démontrer des relations dans certains contexte. Ils identifient des tâches clés et encouragent donc à proposer différentes stratégies pour soutenir le SRL. 
+
 
 
 # Concepts proches de l'autorégulation de l'apprentissage
